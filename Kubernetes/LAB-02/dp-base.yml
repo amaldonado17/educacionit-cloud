@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: apache-php
-        image: maldoariel/dolarapp
+        image: maldoariel/dolar-app
         ports:
         - containerPort: 80
